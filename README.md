@@ -1,2 +1,2 @@
-# arvorepic
-código de controle de uma arvore de natal feita em Pic18f4550
+# Christmas tree made in Pic18f4550
+control code of a Christmas tree made in Pic18f4550
